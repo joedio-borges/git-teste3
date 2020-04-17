@@ -1,0 +1,19 @@
+{
+  "name": "git-teste3",
+  "version": "1.0.0",
+  "description": "Aplicativo de teste no NPM - Lite-server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedio-borges/git-teste3.git"
+  },
+  "author": "Joedio Borges Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedio-borges/git-teste3/issues"
+  },
+  "homepage": "https://github.com/joedio-borges/git-teste3#readme"
+}
